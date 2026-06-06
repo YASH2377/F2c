@@ -1,0 +1,27 @@
+{
+  "projects": {
+    "default": "terradirect-3a4f6",
+    "demo": "terradirect-3a4f6",
+    "staging": "terradirect-3a4f6"
+  },
+  "targets": {
+    "terradirect-80536": {
+      "hosting": {
+        "marketplace": [
+          "terradirectmarket"
+        ]
+      }
+    },
+    "terradirect-3a4f6": {
+      "hosting": {
+        "marketplace": [
+          "terradirectf2c"
+        ],
+        "demo": [
+          "terradirectf2c-demo"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
